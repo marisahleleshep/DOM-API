@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  #button {
     width: 100%;
     margin-right: 0;
@@ -331,3 +332,338 @@
         height: auto;
     }
 }
+=======
+ #button {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+ #but{
+    margin-left: 38%;
+    margin-top: -1.1%;
+    width: 850px;
+    text-align: left;
+    border: wheat solid;
+    font-size: 25px;
+    color: grey;
+    border-radius: 5px;
+    height: 80px;
+    
+}
+
+ #par{
+    width: 400px;
+    border-radius: 5px;
+    text-align: left;
+    border: wheat solid;
+    font-size: 25px;
+    color: grey;
+    margin-left: 200px;
+    margin-top: 2%;
+    height: 80px;
+}
+.coin{
+    margin-top: -3%;
+}
+  .content{
+    background-color: grey;
+
+}
+.con{
+
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-left: 10%;
+}
+#button{
+    width: 10%;
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 10px;
+    background-color: yellow;
+    border: solid yellow;
+    font-size: 20px;
+}
+
+ * {
+    padding: 0px;
+    margin: 0px;
+}
+.colors{
+    background-color: black;
+    margin-top: 10px;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+        color: white;
+    }
+.navbar{
+    text-align: center;
+    font-size: 17px;
+}
+.logo{
+    color: yellow;
+}
+.heading{
+    margin-left: 30px;
+    padding-top: 40px;
+    color: white;
+}
+.icons{
+    margin-left: 1125px;
+    margin-top: -70px;
+}
+.user1{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+#category{
+    height: 45px;
+    width: 160px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#search{
+    height: 45px;
+    width: 600px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.bar{
+    margin-top: 30px;
+    margin-left: 450px;
+}
+.devices{
+    background-color: rgb(187, 104, 132);
+    margin-top: 30px;
+    height: 500px;
+}
+.image1{
+    margin-left: 700px;
+}
+.about{
+    margin-top: -450px;
+    font-size: 70px;
+    margin-left: 90px;
+}
+.description{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button1{
+    margin-top: 20px;
+}
+.now{
+    margin-left: 200px;
+    height: 70px;
+    width: 250px;
+    border: solid yellow;
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+.more1{
+    margin-left: 80px;
+    height: 70px;
+    width: 250px;
+    border: solid whitesmoke;
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.image2 img{
+    width: 1400px;
+}
+.deals{
+    display: flex;
+    margin-left: 80px;
+    gap: 90px;
+}
+.deal{
+    font-size: 30px;
+}
+.offer{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#button2{
+    height: 30px;
+    background-color: black;
+    color: yellow;
+}
+.head img{
+    width: 650px;
+}
+.cam img{
+    width: 650px;
+    height: 365px;
+  }
+  .classic{
+    display: flex;
+    gap: 60px;
+    margin-left: 30px;
+  }
+  .play{
+    background-color: rgb(175, 120, 139);
+    width: 1350px;
+    margin-left: 30px;
+    height: 270px;
+  }
+  .smater{
+    margin-left: 90px;
+    padding: 30px;
+    font-size: 55px;
+  }
+  .design{
+    margin-left: 150px;
+    font-size: 18px;
+  }
+  .person1 img{
+    margin-left: 1050px;
+    margin-top: -400px;
+    width: 300px;
+    height: 300px;
+  }
+.test{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.testimonials{
+    margin-left: 90px;
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 30px;
+}
+.smart{
+    font-size: 29px;
+}
+.spans{
+    color: yellow;
+}
+.subscribe{
+    display: flex;
+    gap: 70px;
+    margin-left: 300px;
+    font-size: 20px;
+    font-style: oblique;
+}
+#but1{
+    border-radius: 5px;
+    border: solid yellow;
+    width: 250px;
+    height: 70px;
+    background-color: yellow;
+    font-size: 25px;
+}
+.footer{
+    display: flex;
+    gap: 140px;
+    /* margin-left: 20px; */
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    height: 180px;
+    border: solid black;
+}
+
+.work img{
+    border-radius:5px ;
+    margin-bottom: 1%;
+    border: solid bisque;
+}
+#class{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+
+
+@media (max-width: 768px) {
+    .con {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+
+    #button {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    #but {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    #par {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .navbar {
+        display: none;
+        
+    }
+
+    .icons {
+        margin-left: 0;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .image1 {
+        margin-left: 0;
+    }
+
+    .about {
+        margin-top: -250px;
+        font-size: 40px;
+        margin-left: 0;
+    }
+
+    .description {
+        margin-left: 0;
+    }
+
+    .play {
+        width: 100%;
+        margin-left: 0;
+        height: auto;
+    }
+
+    .person1 img {
+        margin-left: 0;
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+    }
+
+    .testimonials {
+        margin-left: 0;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .subscribe {
+        flex-direction: column;
+        margin-left: 0;
+    }
+
+    .footer {
+        flex-direction: column;
+        gap: 20px;
+        height: auto;
+    }
+}
+>>>>>>> 8ce93238335cd5f3f33360804e50bcb3c8c8c18a
