@@ -24,7 +24,7 @@ function fetchProducts() {
   });
 }
 fetchProducts();
-=======
+
 function generateProductCards(data) {
   const productContainer = document.getElementById("class");
   data.forEach((product) => {
